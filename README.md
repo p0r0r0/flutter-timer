@@ -1,7 +1,8 @@
-# hello_rectangle
+# Flutter Timer
 
 A new Flutter application.
 
+![flutter-timer](https://i.imgur.com/6Ph1Ws9.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
